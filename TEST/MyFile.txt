@@ -1,1 +1,2 @@
 This is a text file. Waka Waka
+This is a new line.
